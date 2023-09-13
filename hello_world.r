@@ -7,4 +7,8 @@ print("Hello World!", quote = FALSE)
 #Can split and paste the words individually using paste()
 print(paste("Hello", "World", "!"))
 
+#Another varation of "Hello World!"
+myString <- "Hello World!"
+print(myString)
+
 
